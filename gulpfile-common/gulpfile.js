@@ -11,6 +11,47 @@ const plugins = loadPlugins()
 const bs = browserSync.create()
 const autoprefix = new LessAutoprefix({browsers: ["last 2 versions"]});
 
+const data = {
+  menus: [
+    {
+      name: 'Home',
+      icon: 'aperture',
+      link: 'index.html'
+    },
+    {
+      name: 'Features',
+      link: 'features.html'
+    },
+    {
+      name: 'About',
+      link: 'about.html'
+    },
+    {
+      name: 'Contact',
+      link: '#',
+      children: [
+        {
+          name: 'Twitter',
+          link: 'https://twitter.com/w_zce'
+        },
+        {
+          name: 'About',
+          link: 'https://weibo.com/zceme'
+        },
+        {
+          name: 'divider'
+        },
+        {
+          name: 'About',
+          link: 'https://github.com/zce'
+        }
+      ]
+    }
+  ],
+  pkg: require('./package.json'),
+  date: new Date()
+}
+
 // 创建清除文件任务
 const clean = () => {
   // 每次执行的时候，先把之前的dist目录删除，再删除临时目录temp
@@ -64,7 +105,7 @@ const page = () => {
   // 通配符匹配src下main的所有子目录中的html
   return src('src/**/*.html', { base: 'src' })
     //swig因为模板缓存的关系无法热更新，所以需要默认设置里面关闭缓存
-    .pipe(plugins.swig({defaults: { cache: false }}))
+    .pipe(plugins.swig({data, defaults: { cache: false }}))
     // 不需要进行临时文件夹中操作
     .pipe(dest('temp'))
     // 以流的方式往浏览器推

@@ -10,6 +10,8 @@
 这个模块是练习gulp自动化构建的文件模板
 ### pages-boilerplate-homeworktemp
 这个模块是练习gulp自动化构建的文件模板，作业模板
+### generator-yourclitemp
+这个模块是练习Yeoman脚手架的文件目录模板
 
 ## 学习之后保存的代码
 

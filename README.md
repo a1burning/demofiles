@@ -12,6 +12,8 @@
 这个模块是练习gulp自动化构建的文件模板，作业模板
 ### generator-yourclitemp
 这个模块是练习Yeoman脚手架的文件目录模板
+### webpack-start-temp
+这个模块是练习webpack快速上手的目录模板
 
 ## 学习之后保存的代码
 

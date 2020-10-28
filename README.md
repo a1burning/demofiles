@@ -14,6 +14,10 @@
 这个模块是练习Yeoman脚手架的文件目录模板
 ### webpack-start-temp
 这个模块是练习webpack快速上手的目录模板
+### webpack-sourcemap-devtool-diff-temp
+这个模块是练习webpack中sourcemap的不同模式的devtool比较的模板
+### webpack-tree-shaking-temp
+这个模块是练习webpack中tree-shaking手动实现的目录模板
 
 ## 学习之后保存的代码
 

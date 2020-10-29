@@ -22,6 +22,8 @@
 这个模块是练习webpack中sideEffects特性的文件模板
 ### webpack-multiple-entry-temp
 这个模块是练习webpack分包中多入口打包特性的文件模板
+### Rollup-firstdemo-temp
+这个模块是练习Rollup快速上手的文件模板
 
 
 ## 学习之后保存的代码

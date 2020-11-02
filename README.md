@@ -24,6 +24,8 @@
 这个模块是练习webpack分包中多入口打包特性的文件模板
 ### Rollup-firstdemo-temp
 这个模块是练习Rollup快速上手的文件模板
+### csf-gulp-demo-master
+这个模块是练习eslint与gulp结合自动化的文件模板
 
 
 ## 学习之后保存的代码

@@ -28,6 +28,26 @@
 这个模块是练习eslint与gulp结合自动化的文件模板
 ### csf-react-app-master
 这个模块是练习eslint与webpack结合自动化的文件模板
+### vue-router-demo-temp
+这个模块是回忆vueRouter的文件模板
+### vue-dynamic-router-temp
+这个模块是练习vueRouter动态路由的文件模板
+### vue-nested-router-temp
+这个模块是练习vueRouter嵌套路由的文件模板
+### vue-cli-history-demo
+这个模块是练习vueRouter的history模式的源码的文件模板
+### vue-cli-history-node-temp
+这个模块是用node或者appache后台处理404的文件模板
+### vue-programmatic-navigation-temp
+这个模块是练习vue的路由的文件模板
+
+### vue-vercel-nodepro
+这个模块是学习3-2直播一里面的vercel和serverless的文件模板
+
+### vuex-sample-demo-temp
+这个模块是初次接触Vuex的时候的文件模板
+### vuex-cart-demo-template-master
+这个模块是练习Vuex实现购物车的例子的文件模板
 
 ## 学习之后保存的代码
 

@@ -48,6 +48,8 @@
 这个模块是初次接触Vuex的时候的文件模板
 ### vuex-cart-demo-template-master
 这个模块是练习Vuex实现购物车的例子的文件模板
+### vuex-myvuex-demo-temp
+这个模块是练习模拟Vuex实现的文件模板
 
 ## 学习之后保存的代码
 

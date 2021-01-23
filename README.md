@@ -51,6 +51,9 @@
 ### vuex-myvuex-demo-temp
 这个模块是练习模拟Vuex实现的文件模板
 
+### gridsome-blog-smaple-temp
+这个模块是练习Gridsome案例的文件模板
+
 ## 学习之后保存的代码
 
 ### gulpfile-common

@@ -55,7 +55,7 @@
 这个模块是练习Gridsome案例的文件模板
 
 ### vue3-todolist-temp
-这个模块是学习vue3的时候的todolist模板
+这个模块是学习vue3的时候的 todolist 模板
 ## 学习之后保存的代码
 
 ### gulpfile-common

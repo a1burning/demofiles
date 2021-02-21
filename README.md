@@ -56,7 +56,11 @@
 
 ### vue3-todolist-demo-temp
 这个模块是学习vue3的时候的 todolist 模板
+
 ## 学习之后保存的代码
 
 ### gulpfile-common
 这个gulpfile.js是练习时候的gulp文件
+
+### vite-cli-demo
+这个是练习Vite-cli在开发环境下，实现单文件组件加载的的完整代码
